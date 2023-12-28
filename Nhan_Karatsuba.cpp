@@ -88,7 +88,7 @@ int main()
 	print(b);
 	Number res; 
 	multiply(a,b,res);
-	print(res);
+	cout << "a*b = ";
 	finalize(res);
 	print(res);
 	return 0;
